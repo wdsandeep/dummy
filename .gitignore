@@ -1,0 +1,4 @@
+*.log
+dir/
+/log/dir
+publisher.pub
